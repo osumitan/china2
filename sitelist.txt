@@ -3,7 +3,7 @@
 千葉 椿姫 http://tubakihime.link/ index.html staff.html . utf-8
 千葉 純愛 http://est-love.info/ index.html staff.html topics/topics.cgi sjis
 千葉 リゾートイン http://resortin.jpn.cm/ index.html staff.html . utf-8
-千葉 夢の胡蝶 http://cho-jp.link/ index.html staff.html . sjis
+千葉 むらさき http://cho-jp.link/ index.html staff.html . sjis
 千葉 WithYou http://www.withyoutomo.com/ index.html staff.html . sjis
 千葉 華美羅 http://m-hanabira.com/ top.html staff.html . sjis
 千葉 華の舞 http://www.a-side.com/hananomai/ index2.html staff.html . sjis
@@ -21,7 +21,6 @@
 千葉 少女時代 http://shoujo.relaxnabi.com/ index.html staff.html . utf-8
 千葉 胡蝶花 http://www.es-chiba.com/ index.html staff.html new/wnew.cgi.htm utf-8
 千葉 康楽 http://estjp.com/kaori8/ index.html staff.html . utf-8
-千葉 蝶の舞 http://msg-esthe.com/ index.html staff.html topics/topics.cgi sjis
 千葉 遊楽 http://www.yuraku.esjoho.com/ index.php staff.php . utf-8
 千葉 花の心 http://www.hana.aromanv.com/ index.php staff.php cgi-bin/topics/topics.cgi utf-8
 鎌取 瑠夏 http://www.relax-luca.com/ . therapist . utf-8
