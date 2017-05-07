@@ -41,3 +41,4 @@
 稲毛 Candy http://in-esthe.com/candy/ index.html staff-list.html . sjis
 稲毛 Cecil http://www.es-cecil.info/ index.php staff.php newstaff.php utf-8
 稲毛 楽園 http://rakuen.ests.co/ index.html staff.html . utf-8
+稲毛 Cindy http://candy.relaxjp.com/ index.html staff.html . utf-8
