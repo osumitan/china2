@@ -28,7 +28,7 @@
 千葉 心の恋 http://kokoro.relaxjp.com/ index.html staff.html . sjis
 千葉 Angel_island http://es-y.info/ index.html staff.html topics/topics.cgi sjis
 千葉 春の風 http://haru.relaxnabi.com/ index.html staff.html . utf-8
-鎌取 瑠夏 http://www.relax-luca.com/ . therapist . utf-8
+千葉 南国の恋 http://es-come.net/nangoku/ index.html staff.html . utf-8
 蘇我 若葉 http://wakaba.jpn.cm/ index.html staff.html . utf-8
 蘇我 アカスリ水晶宮 http://sln-heal.com/ index.html staff.html new/wnew.cgi sjis
 蘇我 縁 http://soga.est-u.com/ index.html staff.html topics2/topics.cgi utf-8
