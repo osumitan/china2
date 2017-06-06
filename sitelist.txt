@@ -9,7 +9,6 @@
 千葉 華の舞 http://www.a-side.com/hananomai/ index2.html staff.html . sjis
 千葉 MyRoom http://myroom.xyz/ index.html staff.html . utf-8
 千葉 オーロラ http://dream-in.info/ index.html therapist.html . sjis
-千葉 ヴィヴィアン http://m-relax.net/vivian/ index.html staff.html . sjis
 千葉 やすらぎ http://yasuragi.jps.cm/ index.html staff.html . utf-8
 千葉 MissDior http://www.missdior.club/ index.html staff.html topics/topics.cgi sjis
 千葉 さくら http://www.sakura2009.net/ index.html staff.html cgi-bin/topics/topics.cgi utf-8
