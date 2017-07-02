@@ -27,8 +27,10 @@
 千葉 Angel_island http://es-y.info/ index.html staff.html topics/topics.cgi sjis
 千葉 春の風 http://haru.relaxnabi.com/ index.html staff.html . utf-8
 千葉 南国の恋 http://es-come.net/nangoku/ index.html staff.html . utf-8
-蘇我 若葉 http://wakaba.jpn.cm/ index.html staff.html . utf-8
-蘇我 縁 http://soga.est-u.com/ index.html staff.html topics2/topics.cgi utf-8
+千葉 沙羅 http://sara.xyz.mn/ index.html staff.html . utf-8
+千葉 福縁 http://siawasesalon.com/ index.html staff.html topics/topics.cgi sjis
+千葉 森の香 http://www.mori-kaori.esjoho.com/ index.php staff.php cgi-bin/topics/topics.cgi utf-8
+千葉 スマイル http://smile.oks.bz/ index.html staff.html . utf-8
 稲毛 癒しの天使 http://lover.est.cm/ index.html staff.html . utf-8
 稲毛 ピーチ http://peach-est.com/ index.html staff.html new.cgi sjis
 稲毛 癒やしの恋 http://iyashinokoi-est.info/ index.html staff.html topics/topics.cgi sjis
@@ -42,3 +44,7 @@
 稲毛 楽園 http://rakuen.ests.co/ index.html staff.html . utf-8
 稲毛 Cindy http://candy.relaxjp.com/ index.html staff.html . utf-8
 稲毛 手の平 http://www.hand.esjoho.com/ index.php staff.php cgi-bin/topics/topics.cgi utf-8
+稲毛 眠り姫 http://hime.relaxjp.com/sp/ index.html staff.html . sjis
+蘇我 若葉 http://wakaba.jpn.cm/ index.html staff.html . utf-8
+蘇我 縁 http://soga.est-u.com/ index.html staff.html topics2/topics.cgi utf-8
+千葉みなと 華組 http://www.syk-house.link/ index.html girls.html . utf-8
