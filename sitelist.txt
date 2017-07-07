@@ -41,7 +41,6 @@
 稲毛 彩 http://www.esute-jp100.com/ index.html staff.html topics/topics.cgi sjis
 稲毛 Candy http://in-esthe.com/candy/ index.html staff-list.html . sjis
 稲毛 Cecil http://www.es-cecil.info/ index.php staff.php newstaff.php utf-8
-稲毛 楽園 http://rakuen.ests.co/ index.html staff.html . utf-8
 稲毛 Cindy http://candy.relaxjp.com/ index.html staff.html . utf-8
 稲毛 手の平 http://www.hand.esjoho.com/ index.php staff.php cgi-bin/topics/topics.cgi utf-8
 稲毛 眠り姫 http://hime.relaxjp.com/sp/ index.html staff.html . sjis
