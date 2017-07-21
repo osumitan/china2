@@ -16,6 +16,10 @@
 	if(index(page, "千葉_MyRoom") != 0 && match(s, /<span class=\"slide-img\"><img[^>]*> <\/span>/) != 0) {
 		gsub(/<span class=\"slide-img\"><img[^>]*> <\/span>/, "<span class=\"slide-img\"></span>", s);
 	}
+	# 蘇我_若葉 banner
+	if(index(page, "蘇我_若葉") != 0 && match(s, /bannerAD.*\[[0-9]*\].*$/) != 0) {
+		gsub(/bannerAD.*\[[0-9]*\].*$/, "", s);
+	}
 
 	
 	printf("%s\n", s);

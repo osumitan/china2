@@ -22,6 +22,9 @@ cat ${SITE} | gawk -v home=${HOME} -v logdir=${LOG} -f ${HOME}/clean.awk | bash
 
 # サイズゼロ
 echo "■ ■ ■ サイズゼロ ■ ■ ■"
-ls -l | gawk '{if($5=="0")printf("%s\n",$9);}'
+echo "--tmp"
+ls -l ${LOG} | gawk '/\.tmp$/{if($5=="0") printf("%s\n",$9);}'
+echo "--html"
 
+ls -l ${LOG} | gawk '/\.html$/{if($5=="0") if(match($9,/^[^_]*_[^_]*/)) printf("%s\n",substr($9,RSTART,RLENGTH));}' | sort | uniq
 
