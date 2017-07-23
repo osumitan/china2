@@ -6,7 +6,6 @@
 千葉 むらさき http://cho-jp.link/ index.html staff.html topics/topics.cgi sjis
 千葉 WithYou http://www.withyoutomo.com/ index.html staff.html . sjis
 千葉 華美羅 http://m-hanabira.com/ top.html staff.html . sjis
-千葉 華の舞 http://www.a-side.com/hananomai/ index2.html staff.html . sjis
 千葉 MyRoom http://myroom.xyz/ index.html staff.html . utf-8
 千葉 オーロラ http://dream-in.info/ index.html therapist.html . sjis
 千葉 やすらぎ http://yasuragi.jps.cm/ index.html staff.html . utf-8
@@ -14,12 +13,10 @@
 千葉 ハナミズキ http://hanamizuki.in.net/ index.html staff.html topics/topics.cgi sjis
 千葉 縁 http://tiba-es.info/ index.html staff.html topics/topics.cgi sjis
 千葉 ミンク http://a-est.com/minnku/ index.html staff.html . utf-8
-千葉 ゆりか http://es-yurika.link/ . category/staff/ . utf-8
 千葉 胡蝶花 http://www.es-chiba.com/ index.html staff.html new/wnew.cgi.htm utf-8
 千葉 康楽 http://estjp.com/kaori8/ index.html staff.html . utf-8
 千葉 遊楽 http://www.yuraku.esjoho.com/ index.php staff.php . utf-8
 千葉 花の心 http://www.hana.aromanv.com/ index.php staff.php cgi-bin/topics/topics.cgi utf-8
-千葉 リナリア http://www.linaria.aromanv.com index.php staff.php cgi-bin/topics/topics.cgi utf-8
 千葉 夜来香 http://relax-chiba.xyz/ index.html staff.html topics/topics.cgi sjis
 千葉 心の恋 http://kokoro.relaxjp.com/ index.html staff.html . sjis
 千葉 Angel_island http://es-y.info/ index.html staff.html topics/topics.cgi sjis
