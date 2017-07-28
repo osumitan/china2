@@ -26,6 +26,8 @@
 千葉 沙羅 http://sara.xyz.mn/ index.html staff.html . utf-8
 千葉 福縁 http://siawasesalon.com/ index.html staff.html topics/topics.cgi sjis
 千葉 森の香 http://www.mori-kaori.esjoho.com/ index.php staff.php cgi-bin/topics/topics.cgi utf-8
+千葉 悠楽 http://yuraku.xyz/ index.html therapist.html . utf-8
+千葉 恋 http://www.es-midori.link/ index.html staff.html . sjis
 千葉 スマイル http://smile.oks.bz/ index.html staff.html . utf-8
 千葉 月のすみか http://beauteous.info/ index.php staff.php . utf-8
 稲毛 癒しの天使 http://lover.est.cm/ index.html staff.html . utf-8
