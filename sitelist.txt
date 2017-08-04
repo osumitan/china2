@@ -31,6 +31,7 @@
 千葉 スマイル http://smile.oks.bz/ index.html staff.html . utf-8
 千葉 月のすみか http://beauteous.info/ index.php staff.php . utf-8
 千葉 オリエンタル http://www.oriental.mensnv.com/ index.php therapist.php cgi-bin/topics/topics.cgi utf-8
+千葉 縁えん http://en.relaxnabi.com/ index.html staff.html . utf-8
 稲毛 癒しの天使 http://iyashinotenshi.xyz.mn/ index.html staff.html . utf-8
 稲毛 ピーチ http://peach-est.com/ index.html staff.html new.cgi sjis
 稲毛 癒やしの恋 http://iyashinokoi-est.info/ index.html staff.html topics/topics.cgi sjis
