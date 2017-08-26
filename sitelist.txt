@@ -20,7 +20,7 @@
 千葉 リナリア http://www.linaria.aromanv.com/ index.php staff.php cgi-bin/topics/topics.cgi utf-8
 千葉 夜来香 http://relax-chiba.xyz/ index.html staff.html topics/topics.cgi sjis
 千葉 心の恋 http://kokoro.relaxjp.com/ index.html staff.html . sjis
-千葉 Angel_island http://es-y.info/ index.html staff.html topics/topics.cgi sjis
+千葉 ルージュ http://es-y.info/ index.html staff.html topics/topics.cgi sjis
 千葉 春の風 http://haru.relaxnabi.com/ index.html staff.html . utf-8
 千葉 南国の恋 http://es-come.net/nangoku/ index.html staff.html . utf-8
 千葉 沙羅 http://sara.xyz.mn/ index.html staff.html . utf-8
@@ -44,8 +44,6 @@
 稲毛 Cecil http://www.es-cecil.info/ index.php staff.php newstaff.php utf-8
 稲毛 Cindy http://candy.relaxjp.com/ index.html staff.html . utf-8
 稲毛 手の平 http://www.hand.esjoho.com/ index.php staff.php cgi-bin/topics/topics.cgi utf-8
-稲毛 眠り姫 http://hime.relaxjp.com/sp/ index.html staff.html . sjis
 四街道 ロイヤルガーデン http://royal-garden.xyz.mn/ index.html staff.html . utf-8
 蘇我 若葉 http://wakaba.jpn.cm/ index.html staff.html . utf-8
 蘇我 縁 http://soga.est-u.com/ index.html staff.html topics2/topics.cgi utf-8
-千葉みなと 華組 http://www.syk-house.link/ index.html girls.html . utf-8
