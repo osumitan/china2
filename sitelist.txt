@@ -18,7 +18,6 @@
 千葉 遊楽 http://www.yuraku.esjoho.com/ index.php staff.php . utf-8
 千葉 花の心 http://www.hana.aromanv.com/ index.php staff.php cgi-bin/topics/topics.cgi utf-8
 千葉 リナリア http://www.linaria.aromanv.com/ index.php staff.php cgi-bin/topics/topics.cgi utf-8
-千葉 夜来香 http://relax-chiba.xyz/ index.html staff.html topics/topics.cgi sjis
 千葉 心の恋 http://kokoro.relaxjp.com/ index.html staff.html . sjis
 千葉 ルージュ http://es-y.info/ index.html staff.html topics/topics.cgi sjis
 千葉 春の風 http://haru.relaxnabi.com/ index.html staff.html . utf-8
