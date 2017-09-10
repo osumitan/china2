@@ -20,7 +20,10 @@
 	if(index(page, "蘇我_若葉") != 0 && match(s, /bannerAD.*\[[0-9]*\].*$/) != 0) {
 		gsub(/bannerAD.*\[[0-9]*\].*$/, "", s);
 	}
-
+	# 四街道 ロイヤルガーデン pickuplist
+	if(index(page, "四街道_ロイヤルガーデン") != 0 && match(s, /staff\.html#s[0-9]*/) != 0) {
+		gsub(/staff\.html#s[0-9]*/, "staff.html", s);
+	}
 	
 	printf("%s\n", s);
 }
