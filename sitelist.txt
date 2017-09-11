@@ -11,7 +11,6 @@
 千葉 やすらぎ http://yasuragi.jps.cm/ index.html staff.html . utf-8
 千葉 MissDior http://www.missdior.club/ index.html staff.html topics/topics.cgi sjis
 千葉 ハナミズキ http://hanamizuki.in.net/ index.html staff.html topics/topics.cgi sjis
-千葉 縁 http://tiba-es.info/ index.html staff.html topics/topics.cgi sjis
 千葉 ミンク http://a-est.com/minnku/ index.html staff.html . utf-8
 千葉 胡蝶花 http://www.es-chiba.com/ index.html staff.html new/wnew.cgi.htm utf-8
 千葉 康楽 http://estjp.com/kaori8/ index.html staff.html . utf-8
