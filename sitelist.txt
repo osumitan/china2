@@ -14,7 +14,6 @@
 千葉 ミンク http://a-est.com/minnku/ index.html staff.html . utf-8
 千葉 胡蝶花 http://www.es-chiba.com/ index.html staff.html new/wnew.cgi.htm utf-8
 千葉 康楽 http://estjp.com/kaori8/ index.html staff.html . utf-8
-千葉 遊楽 http://www.yuraku.esjoho.com/ index.php staff.php . utf-8
 千葉 花の心 http://www.hana.aromanv.com/ index.php staff.php cgi-bin/topics/topics.cgi utf-8
 千葉 リナリア http://www.linaria.aromanv.com/ index.php staff.php cgi-bin/topics/topics.cgi utf-8
 千葉 心の恋 http://kokoro.relaxjp.com/ index.html staff.html . sjis
@@ -27,7 +26,6 @@
 千葉 悠楽 http://yuraku.xyz/ index.html therapist.html . utf-8
 千葉 恋 http://www.es-midori.link/ index.html staff.html . sjis
 千葉 スマイル http://smile.oks.bz/ index.html staff.html . utf-8
-千葉 月のすみか http://beauteous.info/ index.php staff.php . utf-8
 千葉 オリエンタル http://www.oriental.mensnv.com/ index.php therapist.php cgi-bin/topics/topics.cgi utf-8
 千葉 縁えん http://en.relaxnabi.com/ index.html staff.html . utf-8
 千葉 ビーナス http://es-venus.site/ index.html therapist.html . sjis
