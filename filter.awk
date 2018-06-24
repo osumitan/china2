@@ -3,7 +3,7 @@
 	# 共通 パラメータ除去
 	if(match(s, /\?[^\"].*\"/) != 0) {
 		gsub(/\?[^\"].*\"/, "\"", s);
-	} 
+	}
 	# 共通 パラメータ除去
 	if(match(s, /\?[^']*'/) != 0) {
 		gsub(/\?[^']*'/, "'", s);
@@ -16,15 +16,6 @@
 	if(index(page, "千葉_MyRoom") != 0 && match(s, /<span class=\"slide-img\"><img[^>]*> <\/span>/) != 0) {
 		gsub(/<span class=\"slide-img\"><img[^>]*> <\/span>/, "<span class=\"slide-img\"></span>", s);
 	}
-	# 蘇我_若葉 banner
-	if(index(page, "蘇我_若葉") != 0 && match(s, /bannerAD.*\[[0-9]*\].*$/) != 0) {
-		gsub(/bannerAD.*\[[0-9]*\].*$/, "", s);
-	}
-	# 四街道 ロイヤルガーデン pickuplist
-	if(index(page, "四街道_ロイヤルガーデン") != 0 && match(s, /staff\.html#s[0-9]*/) != 0) {
-		gsub(/staff\.html#s[0-9]*/, "staff.html", s);
-	}
 	
 	printf("%s\n", s);
 }
-

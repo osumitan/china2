@@ -1,6 +1,6 @@
 #!/bin/sh
 
-LOG_HOME=/home/sysadmin/max3tb/data/develop/sh/china2/log
+LOG_HOME=/home/sysadmin/data/develop/sh/china2/log
 PARAM=$1
 PREFIX=${LOG_HOME}/${PARAM}
 
