@@ -1,8 +1,6 @@
 千葉 椿姫 http://tubakihime.link/ index.html staff.html . utf-8
 千葉 MyRoom http://myroom.xyz/ index.html staff.html . utf-8
-千葉 満月 http://www.relax-yese.cn/ . plus/list.php?tid=13 . utf-8
-千葉 リゾートイン http://resortin.jpn.cm/ index.html staff.html . utf-8
-千葉 リゾートMAX http://resort-max.jpn.mn/ index.html staff.html . utf-8
+千葉 満月 http://full-moon.work/ index.html staff.html . utf-8
 千葉 未来 http://www.t-mirai.info/ index.html staff.html topics/topics.cgi sjis
 千葉 桜桃 http://www.es-tiba.info/ index.html staff.html topics/topics.cgi sjis
 稲毛 彩 http://www.esute-jp100.com/ index.html staff.html topics/topics.cgi sjis
